@@ -32623,6 +32623,7 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/dubairen.com/]61.132.163.68 202.102.213.68
 [/dubao123.com/]61.132.163.68 202.102.213.68
 [/dubbing.tech/]61.132.163.68 202.102.213.68
+[/dubbingx.com/]61.132.163.68 202.102.213.68
 [/dubbo.io/]61.132.163.68 202.102.213.68
 [/duble.live/]61.132.163.68 202.102.213.68
 [/dubola.com/]61.132.163.68 202.102.213.68
@@ -69217,6 +69218,7 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/miaocode.com/]61.132.163.68 202.102.213.68
 [/miaodiyun.com/]61.132.163.68 202.102.213.68
 [/miaodongbar.com/]61.132.163.68 202.102.213.68
+[/miaodongshenghuo.com/]61.132.163.68 202.102.213.68
 [/miaogongzi.cc/]61.132.163.68 202.102.213.68
 [/miaogongzi.net/]61.132.163.68 202.102.213.68
 [/miaohuiyanyi.com/]61.132.163.68 202.102.213.68
@@ -80248,6 +80250,7 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/quaspa.com/]61.132.163.68 202.102.213.68
 [/quazero.com/]61.132.163.68 202.102.213.68
 [/quba360.com/]61.132.163.68 202.102.213.68
+[/qubang.cc/]61.132.163.68 202.102.213.68
 [/qubaobei.com/]61.132.163.68 202.102.213.68
 [/qubiankeji.com/]61.132.163.68 202.102.213.68
 [/qucai.com/]61.132.163.68 202.102.213.68
@@ -95652,6 +95655,7 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/tsg-online.net/]61.132.163.68 202.102.213.68
 [/tsggx.com/]61.132.163.68 202.102.213.68
 [/tsgks.com/]61.132.163.68 202.102.213.68
+[/tsgyun.com/]61.132.163.68 202.102.213.68
 [/tshaisen.com/]61.132.163.68 202.102.213.68
 [/tshe.com/]61.132.163.68 202.102.213.68
 [/tshe.me/]61.132.163.68 202.102.213.68
@@ -110741,6 +110745,7 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/yooek.com/]61.132.163.68 202.102.213.68
 [/yoofh.com/]61.132.163.68 202.102.213.68
 [/yoogene.com/]61.132.163.68 202.102.213.68
+[/yoohe.net/]61.132.163.68 202.102.213.68
 [/yoohouse.com/]61.132.163.68 202.102.213.68
 [/yoojia.com/]61.132.163.68 202.102.213.68
 [/yoojing.com/]61.132.163.68 202.102.213.68
