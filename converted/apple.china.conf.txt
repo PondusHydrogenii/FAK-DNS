@@ -31,6 +31,7 @@
 [/cl1-cdn.origin-apple.com.akadns.net/]61.132.163.68 202.102.213.68
 [/cl1.apple.com/]61.132.163.68 202.102.213.68
 [/cl2-cn.apple.com/]61.132.163.68 202.102.213.68
+[/cl2.apple.com.edgekey.net.globalredir.akadns.net/]61.132.163.68 202.102.213.68
 [/cl2.apple.com/]61.132.163.68 202.102.213.68
 [/cl3-cdn.origin-apple.com.akadns.net/]61.132.163.68 202.102.213.68
 [/cl3.apple.com/]61.132.163.68 202.102.213.68
@@ -56,6 +57,7 @@
 [/gs-loc-cn.apple.com/]61.132.163.68 202.102.213.68
 [/gs-loc.apple.com/]61.132.163.68 202.102.213.68
 [/gsp10-ssl-cn.ls.apple.com/]61.132.163.68 202.102.213.68
+[/gsp11-cn.ls.apple.com/]61.132.163.68 202.102.213.68
 [/gsp12-cn.ls.apple.com/]61.132.163.68 202.102.213.68
 [/gsp13-cn.ls.apple.com/]61.132.163.68 202.102.213.68
 [/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]61.132.163.68 202.102.213.68
@@ -74,8 +76,6 @@
 [/guzzoni.apple.com/]61.132.163.68 202.102.213.68
 [/guzzoni.smoot.apple.com/]61.132.163.68 202.102.213.68
 [/iadsdk.apple.com/]61.132.163.68 202.102.213.68
-[/icloud-cdn.icloud.com.akadns.net/]61.132.163.68 202.102.213.68
-[/icloud.cdn-apple.com/]61.132.163.68 202.102.213.68
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]61.132.163.68 202.102.213.68
 [/init-kt.apple.com/]61.132.163.68 202.102.213.68
 [/init-p01md-lb.push-apple.com.akadns.net/]61.132.163.68 202.102.213.68
@@ -108,20 +108,16 @@
 [/mesu.apple.com/]61.132.163.68 202.102.213.68
 [/ml.cdn-apple.com/]61.132.163.68 202.102.213.68
 [/music.apple.com/]61.132.163.68 202.102.213.68
-[/ocsp-lb.apple.com.akadns.net/]61.132.163.68 202.102.213.68
 [/ocsp.apple.com/]61.132.163.68 202.102.213.68
-[/ocsp2-lb.apple.com.akadns.net/]61.132.163.68 202.102.213.68
 [/ocsp2.apple.com/]61.132.163.68 202.102.213.68
 [/oscdn.apple.com/]61.132.163.68 202.102.213.68
 [/oscdn.origin-apple.com.akadns.net/]61.132.163.68 202.102.213.68
 [/osxapps.itunes.g.aaplimg.com/]61.132.163.68 202.102.213.68
 [/pancake.apple.com/]61.132.163.68 202.102.213.68
-[/pancake.cdn-apple.com.akadns.net/]61.132.163.68 202.102.213.68
 [/pba0.apple.com/]61.132.163.68 202.102.213.68
 [/probe.siri.apple.com/]61.132.163.68 202.102.213.68
 [/prod-support.apple-support.akadns.net/]61.132.163.68 202.102.213.68
 [/publicassets.cdn-apple.com/]61.132.163.68 202.102.213.68
-[/reserve-prime.apple.com/]61.132.163.68 202.102.213.68
 [/s.mzstatic.com/]61.132.163.68 202.102.213.68
 [/seed-sequoia.siri.apple.com/]61.132.163.68 202.102.213.68
 [/seed-swallow.siri.apple.com/]61.132.163.68 202.102.213.68
