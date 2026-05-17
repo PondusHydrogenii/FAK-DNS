@@ -4479,7 +4479,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/36zpp.com/]61.132.163.68 202.102.213.68
 [/37.com/]61.132.163.68 202.102.213.68
 [/37021.com/]61.132.163.68 202.102.213.68
-[/37051.cc/]61.132.163.68 202.102.213.68
 [/370fd.com/]61.132.163.68 202.102.213.68
 [/371.com/]61.132.163.68 202.102.213.68
 [/371.net/]61.132.163.68 202.102.213.68
@@ -11581,7 +11580,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/airchinamedia.com/]61.132.163.68 202.102.213.68
 [/aircourses.com/]61.132.163.68 202.102.213.68
 [/aircx.bid/]61.132.163.68 202.102.213.68
-[/airdali.com/]61.132.163.68 202.102.213.68
 [/airdoc.com/]61.132.163.68 202.102.213.68
 [/airdropin.com/]61.132.163.68 202.102.213.68
 [/airenche.com/]61.132.163.68 202.102.213.68
@@ -15537,7 +15535,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/bearingclub.com/]61.132.163.68 202.102.213.68
 [/bearrental.com/]61.132.163.68 202.102.213.68
 [/bearsing.com/]61.132.163.68 202.102.213.68
-[/bearyboard.com/]61.132.163.68 202.102.213.68
 [/bearychat.com/]61.132.163.68 202.102.213.68
 [/beastush.com/]61.132.163.68 202.102.213.68
 [/beasure.com/]61.132.163.68 202.102.213.68
@@ -17520,7 +17517,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/bluehn.com/]61.132.163.68 202.102.213.68
 [/blueidea.com/]61.132.163.68 202.102.213.68
 [/bluek.org/]61.132.163.68 202.102.213.68
-[/bluelettercn.org/]61.132.163.68 202.102.213.68
 [/bluelightfuse.com/]61.132.163.68 202.102.213.68
 [/bluelive.me/]61.132.163.68 202.102.213.68
 [/bluenotechina.com/]61.132.163.68 202.102.213.68
@@ -27006,6 +27002,7 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/ctgapp.com/]61.132.163.68 202.102.213.68
 [/ctgcdn.biz/]61.132.163.68 202.102.213.68
 [/ctgcdn.com/]61.132.163.68 202.102.213.68
+[/ctgcdn.info/]61.132.163.68 202.102.213.68
 [/ctghealthy.com/]61.132.163.68 202.102.213.68
 [/ctghr.com/]61.132.163.68 202.102.213.68
 [/ctghro.com/]61.132.163.68 202.102.213.68
@@ -46233,7 +46230,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/hiczp.com/]61.132.163.68 202.102.213.68
 [/hidery.com/]61.132.163.68 202.102.213.68
 [/hidesigncloud.com/]61.132.163.68 202.102.213.68
-[/hidist.com/]61.132.163.68 202.102.213.68
 [/hiditie.com/]61.132.163.68 202.102.213.68
 [/hidna.net/]61.132.163.68 202.102.213.68
 [/hidreamai.com/]61.132.163.68 202.102.213.68
@@ -50795,7 +50791,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/ichengli.com/]61.132.163.68 202.102.213.68
 [/ichengsi.com/]61.132.163.68 202.102.213.68
 [/ichengyun.net/]61.132.163.68 202.102.213.68
-[/ichennan.com/]61.132.163.68 202.102.213.68
 [/icheruby.net/]61.132.163.68 202.102.213.68
 [/icheshi.com/]61.132.163.68 202.102.213.68
 [/ichezhan.com/]61.132.163.68 202.102.213.68
@@ -63869,7 +63864,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/lul8.com/]61.132.163.68 202.102.213.68
 [/lula.fun/]61.132.163.68 202.102.213.68
 [/lulala.com/]61.132.163.68 202.102.213.68
-[/lulaoshi.info/]61.132.163.68 202.102.213.68
 [/lulinux.com/]61.132.163.68 202.102.213.68
 [/lulisteel.com/]61.132.163.68 202.102.213.68
 [/lulubei.com/]61.132.163.68 202.102.213.68
@@ -63907,7 +63901,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/luochenyl.com/]61.132.163.68 202.102.213.68
 [/luochenzhimu.com/]61.132.163.68 202.102.213.68
 [/luodian.com/]61.132.163.68 202.102.213.68
-[/luofk.xyz/]61.132.163.68 202.102.213.68
 [/luoganpump.com/]61.132.163.68 202.102.213.68
 [/luogu.org/]61.132.163.68 202.102.213.68
 [/luohanacademy.com/]61.132.163.68 202.102.213.68
@@ -63955,7 +63948,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/luoxiang.com/]61.132.163.68 202.102.213.68
 [/luoxiangcheliang.com/]61.132.163.68 202.102.213.68
 [/luoxiaozi.com/]61.132.163.68 202.102.213.68
-[/luoxinyaoye.com/]61.132.163.68 202.102.213.68
 [/luoxudong.com/]61.132.163.68 202.102.213.68
 [/luoxue.com/]61.132.163.68 202.102.213.68
 [/luoyangdx.com/]61.132.163.68 202.102.213.68
@@ -67260,7 +67252,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/mmfad.com/]61.132.163.68 202.102.213.68
 [/mmgl.net/]61.132.163.68 202.102.213.68
 [/mmgo.com/]61.132.163.68 202.102.213.68
-[/mmgogo.com/]61.132.163.68 202.102.213.68
 [/mmgoodcar.com/]61.132.163.68 202.102.213.68
 [/mmhygame.com/]61.132.163.68 202.102.213.68
 [/mmi-shanghai.com/]61.132.163.68 202.102.213.68
@@ -72334,7 +72325,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/ordostonghui.com/]61.132.163.68 202.102.213.68
 [/orebotech.com/]61.132.163.68 202.102.213.68
 [/orfactory.com/]61.132.163.68 202.102.213.68
-[/org-tollsi.cc/]61.132.163.68 202.102.213.68
 [/organo-sz.com/]61.132.163.68 202.102.213.68
 [/orgcc.com/]61.132.163.68 202.102.213.68
 [/orggd.com/]61.132.163.68 202.102.213.68
@@ -73287,7 +73277,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/pdfbianji.com/]61.132.163.68 202.102.213.68
 [/pdfdo.com/]61.132.163.68 202.102.213.68
 [/pdfexpert.cc/]61.132.163.68 202.102.213.68
-[/pdffsy.com/]61.132.163.68 202.102.213.68
 [/pdfjia.com/]61.132.163.68 202.102.213.68
 [/pdflibr.com/]61.132.163.68 202.102.213.68
 [/pdfxd.com/]61.132.163.68 202.102.213.68
@@ -78558,7 +78547,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/rightpaddle.com/]61.132.163.68 202.102.213.68
 [/rigol.com/]61.132.163.68 202.102.213.68
 [/rigouwang.com/]61.132.163.68 202.102.213.68
-[/rigums.xyz/]61.132.163.68 202.102.213.68
 [/riitao.com/]61.132.163.68 202.102.213.68
 [/riji001.com/]61.132.163.68 202.102.213.68
 [/riji100zi.com/]61.132.163.68 202.102.213.68
@@ -80538,7 +80526,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/sdcia.net/]61.132.163.68 202.102.213.68
 [/sdcjtz.com/]61.132.163.68 202.102.213.68
 [/sdclimber.com/]61.132.163.68 202.102.213.68
-[/sdcmc.net/]61.132.163.68 202.102.213.68
 [/sdcoke.com/]61.132.163.68 202.102.213.68
 [/sdcpd.com/]61.132.163.68 202.102.213.68
 [/sdcqjy.com/]61.132.163.68 202.102.213.68
@@ -82124,7 +82111,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/shebao.net/]61.132.163.68 202.102.213.68
 [/shebao100.com/]61.132.163.68 202.102.213.68
 [/shebao5.com/]61.132.163.68 202.102.213.68
-[/shebao520.com/]61.132.163.68 202.102.213.68
 [/shebaomi.com/]61.132.163.68 202.102.213.68
 [/shebaotong.com/]61.132.163.68 202.102.213.68
 [/shebaowang.com/]61.132.163.68 202.102.213.68
@@ -91632,7 +91618,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/trinitigame.com/]61.132.163.68 202.102.213.68
 [/trinova-tech.com/]61.132.163.68 202.102.213.68
 [/trioisobardev.com/]61.132.163.68 202.102.213.68
-[/triolion.com/]61.132.163.68 202.102.213.68
 [/triopen.com/]61.132.163.68 202.102.213.68
 [/triowin.com/]61.132.163.68 202.102.213.68
 [/trip169.com/]61.132.163.68 202.102.213.68
@@ -96143,7 +96128,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/weishan2015.com/]61.132.163.68 202.102.213.68
 [/weishang99.net/]61.132.163.68 202.102.213.68
 [/weishangagent.com/]61.132.163.68 202.102.213.68
-[/weishangmh.com/]61.132.163.68 202.102.213.68
 [/weishangshijie.com/]61.132.163.68 202.102.213.68
 [/weishangtui.vip/]61.132.163.68 202.102.213.68
 [/weishi.com/]61.132.163.68 202.102.213.68
@@ -98125,7 +98109,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/wqycq.com/]61.132.163.68 202.102.213.68
 [/wqyunpan.com/]61.132.163.68 202.102.213.68
 [/wqzsc36ou356m.com/]61.132.163.68 202.102.213.68
-[/wqzx.net/]61.132.163.68 202.102.213.68
 [/wrating.com/]61.132.163.68 202.102.213.68
 [/wrcdn.com/]61.132.163.68 202.102.213.68
 [/wrdtech.com/]61.132.163.68 202.102.213.68
@@ -101013,7 +100996,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/xingyao.com/]61.132.163.68 202.102.213.68
 [/xingyaomob.com/]61.132.163.68 202.102.213.68
 [/xingyaoss.com/]61.132.163.68 202.102.213.68
-[/xingyaowa.com/]61.132.163.68 202.102.213.68
 [/xingyaozhilian.com/]61.132.163.68 202.102.213.68
 [/xingye.work/]61.132.163.68 202.102.213.68
 [/xingye1.com/]61.132.163.68 202.102.213.68
@@ -103500,7 +103482,6 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/y3pm.com/]61.132.163.68 202.102.213.68
 [/y5000.com/]61.132.163.68 202.102.213.68
 [/y55l6.com/]61.132.163.68 202.102.213.68
-[/y56.com/]61.132.163.68 202.102.213.68
 [/y5663.com/]61.132.163.68 202.102.213.68
 [/y5api.com/]61.132.163.68 202.102.213.68
 [/y5coin.com/]61.132.163.68 202.102.213.68
