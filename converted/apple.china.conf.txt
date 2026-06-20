@@ -103,6 +103,7 @@
 [/itunes-apple.com.akadns.net/]61.132.163.68 202.102.213.68
 [/itunes.apple.com/]61.132.163.68 202.102.213.68
 [/itunesconnect.apple.com/]61.132.163.68 202.102.213.68
+[/mensura.cdn-apple.com/]61.132.163.68 202.102.213.68
 [/mesu-cdn.apple.com.akadns.net/]61.132.163.68 202.102.213.68
 [/mesu-china.apple.com.akadns.net/]61.132.163.68 202.102.213.68
 [/mesu.apple.com/]61.132.163.68 202.102.213.68
