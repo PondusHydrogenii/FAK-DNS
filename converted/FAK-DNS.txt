@@ -14180,6 +14180,7 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/b-k-automation.com/]61.132.163.68 202.102.213.68
 [/b-raymedia.com/]61.132.163.68 202.102.213.68
 [/b.biz/]61.132.163.68 202.102.213.68
+[/b.c2r.ts.cdn.office.net/]61.132.163.68 202.102.213.68
 [/b01.net/]61.132.163.68 202.102.213.68
 [/b02f0d7f3745ba7c.com/]61.132.163.68 202.102.213.68
 [/b041e427810281.beer/]61.132.163.68 202.102.213.68
@@ -33937,6 +33938,7 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/f-insight.com/]61.132.163.68 202.102.213.68
 [/f-stack.org/]61.132.163.68 202.102.213.68
 [/f.biz/]61.132.163.68 202.102.213.68
+[/f.c2r.ts.cdn.office.net/]61.132.163.68 202.102.213.68
 [/f.cx/]61.132.163.68 202.102.213.68
 [/f008.com/]61.132.163.68 202.102.213.68
 [/f015dfc4510292.beer/]61.132.163.68 202.102.213.68
@@ -81378,6 +81380,7 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/sheketiandi.com/]61.132.163.68 202.102.213.68
 [/shekou.com/]61.132.163.68 202.102.213.68
 [/shelive.net/]61.132.163.68 202.102.213.68
+[/shell.cdn.office.net/]61.132.163.68 202.102.213.68
 [/shellpub.com/]61.132.163.68 202.102.213.68
 [/shellsec.com/]61.132.163.68 202.102.213.68
 [/shelter-china.com/]61.132.163.68 202.102.213.68
@@ -85198,6 +85201,7 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/staticfile.org/]61.132.163.68 202.102.213.68
 [/statickksmg.com/]61.132.163.68 202.102.213.68
 [/statics.cc/]61.132.163.68 202.102.213.68
+[/statics.teams.cdn.office.net/]61.132.163.68 202.102.213.68
 [/staticsdd.com/]61.132.163.68 202.102.213.68
 [/staticsoe.com/]61.132.163.68 202.102.213.68
 [/staticsoem.com/]61.132.163.68 202.102.213.68
@@ -85911,6 +85915,7 @@ https://jocular-arithmetic-3c570d.netlify.app/api/v1/config.json
 [/surely.cool/]61.132.163.68 202.102.213.68
 [/surerp.com/]61.132.163.68 202.102.213.68
 [/surface.download.prss.microsoft.com/]61.132.163.68 202.102.213.68
+[/surface.downloads.prss.microsoft.com/]61.132.163.68 202.102.213.68
 [/surfacetreatmentgroup.com/]61.132.163.68 202.102.213.68
 [/surfacetreatmenttechnology.com/]61.132.163.68 202.102.213.68
 [/surfcg.com/]61.132.163.68 202.102.213.68
