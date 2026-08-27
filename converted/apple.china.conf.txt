@@ -64,6 +64,7 @@
 [/gsp4-cn.ls.apple.com/]61.132.163.68 202.102.213.68
 [/gsp5-cn.ls.apple.com/]61.132.163.68 202.102.213.68
 [/gsp85-cn-ssl.ls.apple.com/]61.132.163.68 202.102.213.68
+[/gspe11-2-cn-ssl.ls.apple.com/]61.132.163.68 202.102.213.68
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]61.132.163.68 202.102.213.68
 [/gspe19-2-cn-ssl.ls.apple.com/]61.132.163.68 202.102.213.68
 [/gspe19-cn-ssl.ls.apple.com/]61.132.163.68 202.102.213.68
